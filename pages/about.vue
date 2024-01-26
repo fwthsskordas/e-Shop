@@ -1,8 +1,7 @@
 <template>
     <div>
-        <h2>About</h2>
-        <p> Lorem 2 </p>
-         <p>api response:</p>
+        <h2>ABOUT</h2>
+        <p class="font-mono"> Go to products to see the magic. </p>
         <div>
             {{ data }}
         </div>
